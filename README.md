@@ -90,14 +90,6 @@ How it looks | How to get?
 
 ---
 
-### Mullvad
-
-How it looks | How to get?
--------------|---------
-<img src="https://www.mullvad.net/media/uploads/2017/10/20/mullvad-stickers.jpg" width="400"> | Send an email to support@mullvad.net with "STICKERS" in the subject line. Include a correct postal address in the email. [**Take me there!**](https://mullvad.net/en/blog/2017/6/30/mullvad-merch-available/)
-
----
-
 ### Netlify :heavy_check_mark:
 
 How it looks | How to get?
